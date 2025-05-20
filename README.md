@@ -36,7 +36,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://64.media.tumblr.com/263fda959b14fd642fd14f13af7d86b3/a2dae6cada3044a5-90/s540x810/38fa8d972b46c4f623f4ad3c134bf61de74c7f34.gifv"  />
+  <img height="150" src="![Uploading tumblr_263fda959b14fd642fd14f13af7d86b3_38fa8d97_540.gif…]()
+"  />
 </div>
 
 ###
