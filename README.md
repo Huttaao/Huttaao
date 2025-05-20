@@ -35,10 +35,8 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="![Uploading tumblr_263fda959b14fd642fd14f13af7d86b3_38fa8d97_540.gif…]()
-"  />
-</div>
+![Uploading tumblr_263fda959b14fd642fd14f13af7d86b3_38fa8d97_540.gif…]()
+
 
 ###
 
