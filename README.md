@@ -35,7 +35,8 @@
 
 <br clear="both">
 
-<img src = "https://64.media.tumblr.com/263fda959b14fd642fd14f13af7d86b3/a2dae6cada3044a5-90/s540x810/38fa8d972b46c4f623f4ad3c134bf61de74c7f34.gifv" />
+
+![tumblr_263fda959b14fd642fd14f13af7d86b3_38fa8d97_540](https://github.com/user-attachments/assets/604cf951-b24b-40d3-b8c0-b152c5eb5d02)
 
 
 
