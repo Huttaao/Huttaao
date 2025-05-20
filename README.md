@@ -36,10 +36,6 @@
 <br clear="both">
 
 
-<p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jid3h2MWt2NWh2dTV2Z3Y0YnJrYWIwbWwxOWRzNzl4MG8xMXZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRQL4YAV6PJBiCTTuN/giphy.gif" width="300">
-</p>
-
 
 
 
