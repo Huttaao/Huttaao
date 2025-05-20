@@ -36,7 +36,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jid3h2MWt2NWh2dTV2Z3Y0YnJrYWIwbWwxOWRzNzl4MG8xMXZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRQL4YAV6PJBiCTTuN/giphy.gif"  />
+  <img height="150" src="![Uploading tumblr_263fda959b14fd642fd14f13af7d86b3_38fa8d97_540.gif…]()
+"  />
 </div>
 
 ###
