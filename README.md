@@ -37,7 +37,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/604cf951-b24b-40d3-b8c0-b152c5eb5d02" width="150">
+    <img src="[https://github.com/user-attachments/assets/604cf951-b24b-40d3-b8c0-b152c5eb5d02](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Jid3h2MWt2NWh2dTV2Z3Y0YnJrYWIwbWwxOWRzNzl4MG8xMXZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRQL4YAV6PJBiCTTuN/giphy.gif)" width="150">
 </p>
 
 
