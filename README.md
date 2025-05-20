@@ -35,8 +35,7 @@
 
 <br clear="both">
 <div>
-![download](https://github.com/user-attachments/assets/1944f259-08ce-436d-9af3-ab0e704c42ed)
-
+![download](https://github.com/user-attachments/assets/0d4a5e52-cfca-4ea1-9951-8e83dd9ba06f)
 
 </div>
 
