@@ -35,9 +35,6 @@
 
 <br clear="both">
 
-<img src="https://giphy.com/embed/aRQL4YAV6PJBiCTTuN" width="200" height="200" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/aRQL4YAV6PJBiCTTuN">via GIPHY</a></p>
-
-###
 
 <br clear="both">
 
