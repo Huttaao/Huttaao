@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-![Image](https://github.com/user-attachments/assets/019708b9-91a1-40d2-9668-898c0c4aea36)
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/aRQL4YAV6PJBiCTTuN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/aRQL4YAV6PJBiCTTuN">via GIPHY</a></p>
 
 
 ###
